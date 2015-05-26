@@ -69,3 +69,6 @@ when the user does a git push.
 
 Link to additional information will be here, when we have it :)
 
+- Article: [Mongo Geospatial Mobile DEMO Article](https://keyholesoftware.com/2013/07/15/mongodb-mobile-demo/)
+- Demo 1: [Web Demo](https://geospatial-mauget.rhcloud.com/)
+- Demo 2: [iPhone5 Simulator Demo](http://iphone5simulator.com/)
